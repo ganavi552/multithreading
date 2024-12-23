@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="107d3b03-4f22-4e26-ae5e-6e2c45de66f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/ConsumeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/MonitorLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/MonitorLockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/MonitorThread1IRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/ProduceTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/ThreadLifeCycleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/prod_cons_prblm/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/prod_cons_prblm/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/readwritelock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/readwritelock/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/reentrantlock/ReentrantLockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/reentrantlock/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/reentrantlock/SharedResourceWithReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/reentrantlock/SharedResourceWithReentrantLockAsArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/reentrantlock/SynchronizedMonitorLockMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/stampedlock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/stampedlock/SharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/suspend_resume/DaemonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/suspend_resume/JoinMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/suspend_resume/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/multithreading/suspend_resume/SharedResource.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2piPgglJ2Nrqm2PS97rh36JemQA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DaemonMain.executor": "Run",
+    "Application.JoinMain.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MonitorLockMain.executor": "Run",
+    "Application.ReentrantLockMain.executor": "Run",
+    "Application.SynchronizedMonitorLockMain.executor": "Run",
+    "Application.ThreadLifeCycleMain.executor": "Run",
+    "Application.com.multithreading.stampedlock.Main.executor": "Run",
+    "Application.com.multithreading.suspend_resume.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ReentrantLockMain">
+    <configuration name="DaemonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.suspend_resume.DaemonMain" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.suspend_resume.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.suspend_resume.JoinMain" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.suspend_resume.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReentrantLockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.reentrantlock.ReentrantLockMain" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.reentrantlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedMonitorLockMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.reentrantlock.SynchronizedMonitorLockMain" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.reentrantlock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.multithreading.suspend_resume.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.suspend_resume.Main" />
+      <module name="MultiThreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.multithreading.suspend_resume.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReentrantLockMain" />
+        <item itemvalue="Application.SynchronizedMonitorLockMain" />
+        <item itemvalue="Application.DaemonMain" />
+        <item itemvalue="Application.JoinMain" />
+        <item itemvalue="Application.com.multithreading.suspend_resume.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="107d3b03-4f22-4e26-ae5e-6e2c45de66f7" name="Changes" comment="" />
+      <created>1733246037125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733246037125</updated>
+    </task>
+    <servers />
+  </component>
+</project>
